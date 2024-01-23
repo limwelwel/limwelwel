@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=limwelwel&label=Profile%20views&color=0e75b6&style=flat" alt="limwelwel" /> </p>
 
-<p align="left"> <a href="https://twitter.com/limwelada" target="blank"><img src="https://img.shields.io/twitter/follow/limwelada?logo=twitter&style=for-the-badge" alt="limwelada" /></a> </p>
 
 - 🌱 I’m currently learning **Robotics 2**
 
