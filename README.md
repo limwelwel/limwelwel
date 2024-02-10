@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **lemuelada@gmail.com**
 
-- ⚡ Fun fact **I love carrots**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
