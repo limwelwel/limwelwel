@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lemuel Ada</h1>
+<h1 align="center">Hi 👋, I'm Lemuel </h1>
 <h3 align="center">Mechatronics Engineering Student</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/8d/8d04d1b5d712fddfdd361fe1fc4392d9_w200.gif"
 
