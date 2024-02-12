@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Hamstew!+🐹👋;+I'm+Lemuel+Ada!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Hamstew!+👋🐹;+I'm+Lemuel+Ada!;" />
 </h1>
 <h3 align="center">Mechatronics Engineering Student</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/8d/8d04d1b5d712fddfdd361fe1fc4392d9_w200.gif"
