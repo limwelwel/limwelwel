@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=limwelwel&label=Profile%20views&color=0e75b6&style=flat" alt="limwelwel" /> </p>
 
 
-- 🌱 I’m currently learning **Robotics 2**
+- 🌱 I’m currently learning **python**
 
 - 📫 How to reach me **lemuelada@gmail.com**
   
